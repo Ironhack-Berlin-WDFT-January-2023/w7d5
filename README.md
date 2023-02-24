@@ -7,5 +7,4 @@
 
 - Examples:
     - Display a list of apartments and create new apartments with the Ironbnb-API
-    - Display a list of cocktails and filter the list with cocktail db
     
